@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "226367959429",
+    "project_id": "cony-348115",
+    "storage_bucket": "cony-348115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226367959429:android:6f24db3a70e61d573294ec",
+        "android_client_info": {
+          "package_name": "com.authen.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226367959429-9odt668tngj18jltocbckhl783vme5oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAJApWYEs_UuYNt8xOoJen6dzSIhfDOxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226367959429-9odt668tngj18jltocbckhl783vme5oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226367959429:android:7aa4e7a043dc54483294ec",
+        "android_client_info": {
+          "package_name": "com.thony.shopee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226367959429-9odt668tngj18jltocbckhl783vme5oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAJApWYEs_UuYNt8xOoJen6dzSIhfDOxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226367959429-9odt668tngj18jltocbckhl783vme5oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

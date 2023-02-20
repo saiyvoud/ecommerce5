@@ -2,6 +2,7 @@
 
 import 'package:ecommerce5/components/color.dart';
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
 class DashBoard extends StatelessWidget {
   const DashBoard({super.key});
@@ -32,7 +33,9 @@ class DashBoard extends StatelessWidget {
             ),
           ),
           SizedBox(height: 40),
-          Container(
+          InkWell(
+            onTap:() => Get.toNamed('/register'),
+        child:  Container(
             height: 50,
             width: 260,
             decoration: BoxDecoration(
@@ -49,7 +52,7 @@ class DashBoard extends StatelessWidget {
                 ),
               ),
             ),
-          ),
+          ),),
           SizedBox(height: 20),
           Row(
             mainAxisAlignment: MainAxisAlignment.center,
